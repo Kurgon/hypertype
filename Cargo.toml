@@ -1,0 +1,20 @@
+[package]
+name = "evertype"
+version = "0.1.0"
+edition = "2021"
+authors = ["kurgon"]
+description = "Customizable CLI that gives the illusion of Discord typing."
+readme = "README.md"
+license = "GPL-2.0"
+keywords = ["discord", "cli", "typing", "type"]
+categories = ["command-line-utilities"]
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+indicatif = "0.17.3"
+<<<<<<< HEAD
+=======
+reqwest = "0.11.18"
+>>>>>>> main
+tokio = { version = "1.28.2", features = ["full"] }
