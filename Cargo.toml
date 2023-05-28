@@ -2,7 +2,7 @@
 name = "hypertype"
 version = "0.1.0"
 edition = "2021"
-authors = ["kurgon"]
+authors = ["Kurgon"]
 description = "Customizable CLI that gives the illusion of Discord typing."
 readme = "README.md"
 license = "GPL-2.0"
