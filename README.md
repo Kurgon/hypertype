@@ -1,3 +1,3 @@
-# hypertype
+# HyperType
 
 Automated Discord typing.
